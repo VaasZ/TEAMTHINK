@@ -1,0 +1,40 @@
+#title h1{font-size: 20px;}
+#title h2{font-size: 25px;}
+.homepart{height: 200px;}
+.homepart h2{font-size: 15px;margin-top:0;margin-bottom: 5px;}
+.homepart h1{font-size: 15px;}
+.animateh1{margin-top: 50px;animation: 0.5s h1anm 0.5s ease-out forwards;opacity: 0;}
+@-webkit-keyframes h1anm{
+	from{margin-top: 10px;opacity: 0;}
+	to{margin-top: 0px;opacity: 1;}
+}
+#aboutus h4{font-size: 13px;margin-bottom: 5px;}
+#aboutus p{font-size: 10px;}
+.swiper-slide{height: 300px;}
+.swiper-slide img{left:-600px;}
+.swipercontent{margin-top: 100px;}
+.swipercontent h1{font-size: 20px;}
+.swipercontent h2{font-size: 15px;}
+#our-concept{height: 200px;}
+#our-concept h2{color:#33ccff;margin-top: 10px;}
+#our-concept div img{width: 80px;margin: 20px 20px;}
+#our-concept div span{font-size: 10px;}
+.showli{width: 50%;}
+#our-works{height: 150px;}
+#our-works h2{color:#66cc00;margin-top: 10px;}
+#our-works p{font-size: 10px;margin: 10px;}
+#graybg{height: 50px;}
+.spli img{width: 50px;}
+.spli h3{font-size: 13px;}
+.spli h4{font-size: 10px;}
+.sph4{margin-top: 10px;}
+#contactus{height: 400px;}
+#contact-way{margin-top: 10px;}
+.contact-li{float: none;width: 100%;height: 80px;margin: 20px 0;}
+.contact-li img{width: 30px;position: absolute;top: -16px;left: 47%;}
+.contact-li p {margin: 0px;font-size:10px ;}
+#our-partner h2{font-size: 15px;}
+#our-partner h1{font-size: 14px; margin-top: 5px;}
+#our-partner a{margin-top: 5px;}
+#our-partner p{font-size: 10px;}
+
